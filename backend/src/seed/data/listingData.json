@@ -1,0 +1,966 @@
+{
+  "_id": "6aa827aad69923c03a4c4064",
+  "slug": "romantic-jacuzzi-1bhk-candolim-mirashya-ug10",
+  "title": "Romantic Jacuzzi 1BHK Candolim Mirashya",
+  "documentTitle": "Romantic Jacuzzi 1BHK Candolim Mirashya - Airbnb",
+  "typeLine": "Entire rental unit in Candolim, India",
+  "summaryLine": "1 bedroom · 1 bed · 1 bathroom",
+  "guestFavorite": true,
+  "guestFavoriteBlurb": "One of the most loved homes on Airbnb",
+  "guestFavouriteBlurbLong": "One of the most loved homes on Airbnb, according to guests.",
+  "howReviewsWork": "Guests rate their overall experience and different aspects of their stay.",
+  "rating": 4.95,
+  "reviewsCount": 19,
+  "heroPhotoIndexes": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "photos": [
+    {
+      "url": "/images/01-living-room-1-01--a9831aeb-f441-44f5-a38f-4cf54e3f0fcf.jpeg",
+      "category": "Living room 1",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/02-living-room-1-02--a45feaa2-b607-4092-83ac-5fd4b2894959.jpeg",
+      "category": "Living room 1",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/03-living-room-1-03--f1da1c3d-0d10-481e-9b63-c71f9073f30b.jpeg",
+      "category": "Living room 1",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/04-living-room-2-01--090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/05-living-room-2-02--9be71047-fc52-438a-9270-75cb470f6752.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/06-living-room-2-03--f6de1663-4e9c-4414-b63b-29a154a92ee1.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/07-living-room-2-04--2367476f-11c4-4a14-a7c6-267be62c1d59.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/08-living-room-2-05--34529829-a971-44d3-ac2f-90ea3678a34d.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/09-living-room-2-06--153aa732-4935-48b8-a6fe-b469b6af5efc.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/10-living-room-2-07--3c6e6809-1bb1-47a6-8e24-aff593e1c28f.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    },
+    {
+      "url": "/images/11-full-kitchen-01--56c44812-52c0-4481-90d8-101ec1f34c7a.jpeg",
+      "category": "Full kitchen",
+      "caption": "Kitchen"
+    },
+    {
+      "url": "/images/12-full-kitchen-02--ddc853d7-e658-405c-bedc-8f31106c447e.jpeg",
+      "category": "Full kitchen",
+      "caption": "Kitchen"
+    },
+    {
+      "url": "/images/13-bedroom-01--67c61c6f-6260-4809-9510-0360e58a345d.jpeg",
+      "category": "Bedroom",
+      "caption": "Bedroom"
+    },
+    {
+      "url": "/images/14-bedroom-02--1c827136-4a85-4fe0-8e69-3fd8ea19bb17.jpeg",
+      "category": "Bedroom",
+      "caption": "Bedroom"
+    },
+    {
+      "url": "/images/15-bedroom-03--0622ab42-b851-4d55-9d9f-df3143bc5909.jpeg",
+      "category": "Bedroom",
+      "caption": "Bedroom"
+    },
+    {
+      "url": "/images/16-bedroom-04--a74e3c0b-3188-4442-9146-1cd4d6ea45df.jpeg",
+      "category": "Bedroom",
+      "caption": "Bedroom"
+    },
+    {
+      "url": "/images/17-bedroom-05--48a8ffbc-fbf7-4f84-bc29-ee400da3f08b.jpeg",
+      "category": "Bedroom",
+      "caption": "Bedroom"
+    },
+    {
+      "url": "/images/18-bedroom-06--3cf31697-f3f3-4c60-82c4-029acb119ae4.jpeg",
+      "category": "Bedroom",
+      "caption": "Bedroom"
+    },
+    {
+      "url": "/images/19-full-bathroom-01--97c78f8a-5090-4663-aebc-ba4e13b47092.jpeg",
+      "category": "Full bathroom",
+      "caption": "Bathroom"
+    },
+    {
+      "url": "/images/20-gym-01--9aa8e65f-94ac-4ba0-9a10-9ec91e536d22.jpeg",
+      "category": "Gym",
+      "caption": "Gym"
+    },
+    {
+      "url": "/images/21-gym-02--246bd88d-4dd6-4117-a401-02a36ebfcf16.jpeg",
+      "category": "Gym",
+      "caption": "Gym"
+    },
+    {
+      "url": "/images/22-gym-03--4fede77d-7a71-446f-89e3-263af937f3fa.jpeg",
+      "category": "Gym",
+      "caption": "Gym"
+    },
+    {
+      "url": "/images/23-gym-04--79f59adb-5a5f-4d6c-8109-1f01f4ca0d03.jpeg",
+      "category": "Gym",
+      "caption": "Gym"
+    },
+    {
+      "url": "/images/24-gym-05--f19d8c0a-1d88-42a4-9218-686d4f0db7e4.jpeg",
+      "category": "Gym",
+      "caption": "Gym"
+    },
+    {
+      "url": "/images/25-exterior-01--23ea6621-6f74-4baa-acea-2fd03e312b41.jpeg",
+      "category": "Exterior",
+      "caption": "Exterior"
+    },
+    {
+      "url": "/images/26-exterior-02--5adfdf3e-d497-4efc-ab8c-fc559dab311e.jpeg",
+      "category": "Exterior",
+      "caption": "Exterior"
+    },
+    {
+      "url": "/images/27-exterior-03--608748cd-6ee7-4a71-88a2-ba79d3ddba5a.jpeg",
+      "category": "Exterior",
+      "caption": "Exterior"
+    },
+    {
+      "url": "/images/28-exterior-04--5b856fde-a393-41bf-b373-c9d02e64221f.jpeg",
+      "category": "Exterior",
+      "caption": "Exterior"
+    },
+    {
+      "url": "/images/29-exterior-05--c904e1ab-a39d-4ef0-bdea-8c0bd16b9e3d.jpeg",
+      "category": "Exterior",
+      "caption": "Exterior"
+    },
+    {
+      "url": "/images/30-exterior-06--42befad7-fb29-473d-91db-b03e7a544d1d.jpeg",
+      "category": "Exterior",
+      "caption": "Exterior"
+    },
+    {
+      "url": "/images/31-pool-01--fc02f48f-a937-42c5-895d-f9cc3113d6ca.jpeg",
+      "category": "Pool",
+      "caption": "Pool"
+    },
+    {
+      "url": "/images/32-pool-02--929545d3-e241-46c0-8a70-c24531ce7b54.jpeg",
+      "category": "Pool",
+      "caption": "Pool"
+    },
+    {
+      "url": "/images/33-pool-03--8eb65a8b-e795-4870-b141-6f63b1be24ae.jpeg",
+      "category": "Pool",
+      "caption": "Pool"
+    },
+    {
+      "url": "/images/34-additional-photos-01--70325367-cbae-4993-b560-18cd3f6edd53.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/35-additional-photos-02--cc7a56bd-242c-498a-9aef-0cffac619e54.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/36-additional-photos-03--30ad93b2-293f-494d-b645-626303c6cb93.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/37-additional-photos-04--9642a60d-e9de-4e1a-89c2-9ebd230f4a74.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/38-additional-photos-05--b6599f26-d65c-4df0-baf2-ef18c82a86a3.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/39-additional-photos-06--dc01fd46-b119-48d3-a43b-f6c093e26eca.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/40-additional-photos-07--fe37b80e-da8a-4225-b27b-dfbb5d763c01.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/41-additional-photos-08--3c90338e-86b4-423f-aae1-279e0ccc3a18.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/42-additional-photos-09--862d936c-0f34-4e50-af87-b519e2781d19.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    },
+    {
+      "url": "/images/43-additional-photos-10--79addceb-8c2d-419b-80ff-e29af426a94c.jpeg",
+      "category": "Additional photos",
+      "caption": "Additional photo"
+    }
+  ],
+  "sleep": [
+    {
+      "title": "Bedroom",
+      "detail": "1 double bed",
+      "photoIndex": 12
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "guest-favorite",
+      "title": "Guest favourite",
+      "text": "One of the most loved homes on Airbnb"
+    },
+    {
+      "icon": "location",
+      "title": "Great location",
+      "text": "Guests gave this home's location a 4.9 out of 5 rating."
+    },
+    {
+      "icon": "check",
+      "title": "Great check-in experience",
+      "text": "Recent guests gave the check-in process a 5-star rating."
+    }
+  ],
+  "translationNote": "Some information is automatically translated.",
+  "translationAction": "Show original",
+  "description": "Enjoy a comfortable stay in this beautiful 1-bedroom home in Candolim. Relax in the jacuzzi and enjoy easy access to the area's beaches, restaurants and attractions.",
+  "descriptionMore": "The space is designed for a relaxing stay with comfortable interiors, a well-equipped kitchen and convenient amenities.",
+  "amenitiesFeatured": [
+    {
+      "name": "WiFi",
+      "icon": "wifi",
+      "available": true
+    },
+    {
+      "name": "Kitchen",
+      "icon": "kitchen",
+      "available": true
+    },
+    {
+      "name": "Free parking",
+      "icon": "parking",
+      "available": true
+    },
+    {
+      "name": "Air conditioning",
+      "icon": "ac",
+      "available": true
+    },
+    {
+      "name": "TV",
+      "icon": "tv",
+      "available": true
+    },
+    {
+      "name": "Washer",
+      "icon": "washer",
+      "available": true
+    }
+  ],
+  "amenityGroups": [
+    {
+      "title": "Bathroom",
+      "items": [
+        {
+          "name": "Hair dryer",
+          "icon": "hair-dryer",
+          "available": true
+        },
+        {
+          "name": "Hot water",
+          "icon": "water",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Bedroom and laundry",
+      "items": [
+        {
+          "name": "Washer",
+          "icon": "washer",
+          "available": true
+        },
+        {
+          "name": "Bed linens",
+          "icon": "bed",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Entertainment",
+      "items": [
+        {
+          "name": "TV",
+          "icon": "tv",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Internet and office",
+      "items": [
+        {
+          "name": "WiFi",
+          "icon": "wifi",
+          "available": true
+        },
+        {
+          "name": "Dedicated workspace",
+          "icon": "workspace",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Kitchen",
+      "items": [
+        {
+          "name": "Refrigerator",
+          "icon": "fridge",
+          "available": true
+        },
+        {
+          "name": "Microwave",
+          "icon": "microwave",
+          "available": true
+        },
+        {
+          "name": "Cooking basics",
+          "icon": "cooking",
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "Parking and facilities",
+      "items": [
+        {
+          "name": "Free parking on premises",
+          "icon": "parking",
+          "available": true
+        },
+        {
+          "name": "Private jacuzzi",
+          "icon": "hot-tub",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "amenitiesTotal": 30,
+  "stay": {
+    "nights": 5,
+    "label": "5 nights",
+    "rangeLabel": "Sep 20, 2026 - Sep 25, 2026",
+    "checkIn": "Sep 20",
+    "checkout": "Sep 25",
+    "months": [
+      "September 2026",
+      "October 2026"
+    ]
+  },
+  "pricing": {
+    "total": "₹18,375",
+    "forNights": "₹3,500 night",
+    "promo": "Limited-time deal",
+    "promoTerms": "This home is offering a special price for selected dates.",
+    "promoCta": "Learn more",
+    "freeCancellation": "Free cancellation before check-in",
+    "reserveLabel": "Reserve",
+    "reserveNote": "You won't be charged yet",
+    "reportLabel": "Report this listing"
+  },
+  "bookingBox": {
+    "checkInLabel": "CHECK-IN",
+    "checkInValue": "Add dates",
+    "checkoutLabel": "CHECKOUT",
+    "checkoutValue": "Add dates",
+    "guestsLabel": "GUESTS",
+    "guestsValue": "1 guest"
+  },
+  "ratingBreakdown": [
+    {
+      "name": "Cleanliness",
+      "score": "4.9",
+      "icon": "sparkle"
+    },
+    {
+      "name": "Accuracy",
+      "score": "4.9",
+      "icon": "check"
+    },
+    {
+      "name": "Check-in",
+      "score": "5.0",
+      "icon": "key"
+    },
+    {
+      "name": "Communication",
+      "score": "4.9",
+      "icon": "message"
+    },
+    {
+      "name": "Location",
+      "score": "4.9",
+      "icon": "location"
+    },
+    {
+      "name": "Value",
+      "score": "4.8",
+      "icon": "tag"
+    }
+  ],
+  "reviewChips": [
+    {
+      "label": "Clean",
+      "count": 12,
+      "icon": "sparkle"
+    },
+    {
+      "label": "Great location",
+      "count": 10,
+      "icon": "location"
+    },
+    {
+      "label": "Great check-in",
+      "count": 9,
+      "icon": "key"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Aarav",
+      "avatar": "/images/rev1.jpeg",
+      "initial": "A",
+      "tenure": "2 years on Airbnb",
+      "date": "September 2026",
+      "rating": 5,
+      "text": "Beautiful place and a very comfortable stay. The location was excellent."
+    },
+    {
+      "name": "Priya",
+      "avatar": "/images/rev2.jpeg",
+      "initial": "P",
+      "tenure": "4 years on Airbnb",
+      "date": "August 2026",
+      "rating": 5,
+      "text": "The home was clean, comfortable and exactly as described."
+    },
+    {
+      "name": "Rohan",
+      "avatar": "/images/rev3.jpeg",
+      "initial": "R",
+      "tenure": "3 years on Airbnb",
+      "date": "August 2026",
+      "rating": 5,
+      "text": "Great location and very smooth check-in experience."
+    },
+    {
+      "name": "Ananya",
+      "avatar": "/images/rev4.jpeg",
+      "initial": "A",
+      "tenure": "1 year on Airbnb",
+      "date": "July 2026",
+      "rating": 5,
+      "text": "Really enjoyed the stay. Would definitely recommend it."
+    },
+    {
+      "name": "Vikram",
+      "avatar": "/images/rev5.jpeg",
+      "initial": "V",
+      "tenure": "5 years on Airbnb",
+      "date": "July 2026",
+      "rating": 5,
+      "text": "The place was lovely and the host was very responsive."
+    },
+    {
+      "name": "Neha",
+      "avatar": "/images/rev1.jpeg",
+      "initial": "N",
+      "tenure": "2 years on Airbnb",
+      "date": "June 2026",
+      "rating": 5,
+      "text": "Fantastic stay with everything we needed."
+    }
+  ],
+  "location": {
+    "title": "Candolim, Goa, India",
+    "exactNote": "Exact location information is provided after booking.",
+    "highlightsTitle": "Great location",
+    "highlightsText": "Guests rated the location highly for its access to local attractions, restaurants and beaches.",
+    "highlightsMore": "Explore the neighbourhood"
+  },
+  "host": {
+    "name": "Rahul",
+    "role": "Host",
+    "avatar": "/images/host.jpeg",
+    "reviews": "19",
+    "rating": "4.95",
+    "years": "2",
+    "yearsHostingLabel": "Years hosting",
+    "born": "",
+    "school": "",
+    "verified": true,
+    "responseRate": "100%",
+    "responseTime": "within an hour",
+    "messageCta": "Message host",
+    "protection": "AirCover for guests",
+    "hostedLine": "Hosted by Rahul",
+    "hostingLine": "Rahul is a Superhost"
+  },
+  "coHosts": [
+    {
+      "name": "Rahul",
+      "avatar": "/images/host.jpeg",
+      "initial": "R"
+    }
+  ],
+  "policies": [
+    {
+      "icon": "house",
+      "title": "House rules",
+      "lines": [
+        "Check-in after 2:00 pm",
+        "Checkout before 11:00 am",
+        "4 guests maximum"
+      ],
+      "more": "Show more"
+    },
+    {
+      "icon": "shield",
+      "title": "Safety & property",
+      "lines": [
+        "Smoke alarm",
+        "Carbon monoxide alarm"
+      ],
+      "more": "Show more"
+    },
+    {
+      "icon": "calendar",
+      "title": "Cancellation policy",
+      "lines": [
+        "Free cancellation before check-in"
+      ],
+      "more": "Show more"
+    }
+  ],
+  "similarStays": [
+    {
+      "title": "Beautiful stay near Candolim Beach",
+      "price": "₹3,200 night",
+      "rating": "4.91",
+      "image": "/images/s1.jpeg"
+    },
+    {
+      "title": "Modern 1BHK with pool",
+      "price": "₹3,600 night",
+      "rating": "4.89",
+      "image": "/images/s2.jpeg"
+    },
+    {
+      "title": "Cozy apartment in North Goa",
+      "price": "₹2,900 night",
+      "rating": "4.87",
+      "image": "/images/s3.jpeg"
+    }
+  ],
+  "nav": [
+    "Photos",
+    "About this place",
+    "Where you'll sleep",
+    "Amenities",
+    "Reviews",
+    "Location",
+    "Host",
+    "Things to know"
+  ],
+  "createdAt": "2026-09-14T16:58:18.518Z",
+  "updatedAt": "2026-09-14T16:58:18.518Z",
+  "__v": 0,
+  "photoGroups": [
+    {
+      "category": "Living room 1",
+      "caption": "Living room",
+      "photos": [
+        {
+          "index": 0,
+          "url": "/images/01-living-room-1-01--a9831aeb-f441-44f5-a38f-4cf54e3f0fcf.jpeg",
+          "category": "Living room 1",
+          "caption": "Living room"
+        },
+        {
+          "index": 1,
+          "url": "/images/02-living-room-1-02--a45feaa2-b607-4092-83ac-5fd4b2894959.jpeg",
+          "category": "Living room 1",
+          "caption": "Living room"
+        },
+        {
+          "index": 2,
+          "url": "/images/03-living-room-1-03--f1da1c3d-0d10-481e-9b63-c71f9073f30b.jpeg",
+          "category": "Living room 1",
+          "caption": "Living room"
+        }
+      ]
+    },
+    {
+      "category": "Living room 2",
+      "caption": "Living room",
+      "photos": [
+        {
+          "index": 3,
+          "url": "/images/04-living-room-2-01--090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpeg",
+          "category": "Living room 2",
+          "caption": "Living room"
+        },
+        {
+          "index": 4,
+          "url": "/images/05-living-room-2-02--9be71047-fc52-438a-9270-75cb470f6752.jpeg",
+          "category": "Living room 2",
+          "caption": "Living room"
+        },
+        {
+          "index": 5,
+          "url": "/images/06-living-room-2-03--f6de1663-4e9c-4414-b63b-29a154a92ee1.jpeg",
+          "category": "Living room 2",
+          "caption": "Living room"
+        },
+        {
+          "index": 6,
+          "url": "/images/07-living-room-2-04--2367476f-11c4-4a14-a7c6-267be62c1d59.jpeg",
+          "category": "Living room 2",
+          "caption": "Living room"
+        },
+        {
+          "index": 7,
+          "url": "/images/08-living-room-2-05--34529829-a971-44d3-ac2f-90ea3678a34d.jpeg",
+          "category": "Living room 2",
+          "caption": "Living room"
+        },
+        {
+          "index": 8,
+          "url": "/images/09-living-room-2-06--153aa732-4935-48b8-a6fe-b469b6af5efc.jpeg",
+          "category": "Living room 2",
+          "caption": "Living room"
+        },
+        {
+          "index": 9,
+          "url": "/images/10-living-room-2-07--3c6e6809-1bb1-47a6-8e24-aff593e1c28f.jpeg",
+          "category": "Living room 2",
+          "caption": "Living room"
+        }
+      ]
+    },
+    {
+      "category": "Full kitchen",
+      "caption": "Kitchen",
+      "photos": [
+        {
+          "index": 10,
+          "url": "/images/11-full-kitchen-01--56c44812-52c0-4481-90d8-101ec1f34c7a.jpeg",
+          "category": "Full kitchen",
+          "caption": "Kitchen"
+        },
+        {
+          "index": 11,
+          "url": "/images/12-full-kitchen-02--ddc853d7-e658-405c-bedc-8f31106c447e.jpeg",
+          "category": "Full kitchen",
+          "caption": "Kitchen"
+        }
+      ]
+    },
+    {
+      "category": "Bedroom",
+      "caption": "Bedroom",
+      "photos": [
+        {
+          "index": 12,
+          "url": "/images/13-bedroom-01--67c61c6f-6260-4809-9510-0360e58a345d.jpeg",
+          "category": "Bedroom",
+          "caption": "Bedroom"
+        },
+        {
+          "index": 13,
+          "url": "/images/14-bedroom-02--1c827136-4a85-4fe0-8e69-3fd8ea19bb17.jpeg",
+          "category": "Bedroom",
+          "caption": "Bedroom"
+        },
+        {
+          "index": 14,
+          "url": "/images/15-bedroom-03--0622ab42-b851-4d55-9d9f-df3143bc5909.jpeg",
+          "category": "Bedroom",
+          "caption": "Bedroom"
+        },
+        {
+          "index": 15,
+          "url": "/images/16-bedroom-04--a74e3c0b-3188-4442-9146-1cd4d6ea45df.jpeg",
+          "category": "Bedroom",
+          "caption": "Bedroom"
+        },
+        {
+          "index": 16,
+          "url": "/images/17-bedroom-05--48a8ffbc-fbf7-4f84-bc29-ee400da3f08b.jpeg",
+          "category": "Bedroom",
+          "caption": "Bedroom"
+        },
+        {
+          "index": 17,
+          "url": "/images/18-bedroom-06--3cf31697-f3f3-4c60-82c4-029acb119ae4.jpeg",
+          "category": "Bedroom",
+          "caption": "Bedroom"
+        }
+      ]
+    },
+    {
+      "category": "Full bathroom",
+      "caption": "Bathroom",
+      "photos": [
+        {
+          "index": 18,
+          "url": "/images/19-full-bathroom-01--97c78f8a-5090-4663-aebc-ba4e13b47092.jpeg",
+          "category": "Full bathroom",
+          "caption": "Bathroom"
+        }
+      ]
+    },
+    {
+      "category": "Gym",
+      "caption": "Gym",
+      "photos": [
+        {
+          "index": 19,
+          "url": "/images/20-gym-01--9aa8e65f-94ac-4ba0-9a10-9ec91e536d22.jpeg",
+          "category": "Gym",
+          "caption": "Gym"
+        },
+        {
+          "index": 20,
+          "url": "/images/21-gym-02--246bd88d-4dd6-4117-a401-02a36ebfcf16.jpeg",
+          "category": "Gym",
+          "caption": "Gym"
+        },
+        {
+          "index": 21,
+          "url": "/images/22-gym-03--4fede77d-7a71-446f-89e3-263af937f3fa.jpeg",
+          "category": "Gym",
+          "caption": "Gym"
+        },
+        {
+          "index": 22,
+          "url": "/images/23-gym-04--79f59adb-5a5f-4d6c-8109-1f01f4ca0d03.jpeg",
+          "category": "Gym",
+          "caption": "Gym"
+        },
+        {
+          "index": 23,
+          "url": "/images/24-gym-05--f19d8c0a-1d88-42a4-9218-686d4f0db7e4.jpeg",
+          "category": "Gym",
+          "caption": "Gym"
+        }
+      ]
+    },
+    {
+      "category": "Exterior",
+      "caption": "Exterior",
+      "photos": [
+        {
+          "index": 24,
+          "url": "/images/25-exterior-01--23ea6621-6f74-4baa-acea-2fd03e312b41.jpeg",
+          "category": "Exterior",
+          "caption": "Exterior"
+        },
+        {
+          "index": 25,
+          "url": "/images/26-exterior-02--5adfdf3e-d497-4efc-ab8c-fc559dab311e.jpeg",
+          "category": "Exterior",
+          "caption": "Exterior"
+        },
+        {
+          "index": 26,
+          "url": "/images/27-exterior-03--608748cd-6ee7-4a71-88a2-ba79d3ddba5a.jpeg",
+          "category": "Exterior",
+          "caption": "Exterior"
+        },
+        {
+          "index": 27,
+          "url": "/images/28-exterior-04--5b856fde-a393-41bf-b373-c9d02e64221f.jpeg",
+          "category": "Exterior",
+          "caption": "Exterior"
+        },
+        {
+          "index": 28,
+          "url": "/images/29-exterior-05--c904e1ab-a39d-4ef0-bdea-8c0bd16b9e3d.jpeg",
+          "category": "Exterior",
+          "caption": "Exterior"
+        },
+        {
+          "index": 29,
+          "url": "/images/30-exterior-06--42befad7-fb29-473d-91db-b03e7a544d1d.jpeg",
+          "category": "Exterior",
+          "caption": "Exterior"
+        }
+      ]
+    },
+    {
+      "category": "Pool",
+      "caption": "Pool",
+      "photos": [
+        {
+          "index": 30,
+          "url": "/images/31-pool-01--fc02f48f-a937-42c5-895d-f9cc3113d6ca.jpeg",
+          "category": "Pool",
+          "caption": "Pool"
+        },
+        {
+          "index": 31,
+          "url": "/images/32-pool-02--929545d3-e241-46c0-8a70-c24531ce7b54.jpeg",
+          "category": "Pool",
+          "caption": "Pool"
+        },
+        {
+          "index": 32,
+          "url": "/images/33-pool-03--8eb65a8b-e795-4870-b141-6f63b1be24ae.jpeg",
+          "category": "Pool",
+          "caption": "Pool"
+        }
+      ]
+    },
+    {
+      "category": "Additional photos",
+      "caption": "Additional photo",
+      "photos": [
+        {
+          "index": 33,
+          "url": "/images/34-additional-photos-01--70325367-cbae-4993-b560-18cd3f6edd53.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 34,
+          "url": "/images/35-additional-photos-02--cc7a56bd-242c-498a-9aef-0cffac619e54.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 35,
+          "url": "/images/36-additional-photos-03--30ad93b2-293f-494d-b645-626303c6cb93.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 36,
+          "url": "/images/37-additional-photos-04--9642a60d-e9de-4e1a-89c2-9ebd230f4a74.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 37,
+          "url": "/images/38-additional-photos-05--b6599f26-d65c-4df0-baf2-ef18c82a86a3.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 38,
+          "url": "/images/39-additional-photos-06--dc01fd46-b119-48d3-a43b-f6c093e26eca.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 39,
+          "url": "/images/40-additional-photos-07--fe37b80e-da8a-4225-b27b-dfbb5d763c01.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 40,
+          "url": "/images/41-additional-photos-08--3c90338e-86b4-423f-aae1-279e0ccc3a18.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 41,
+          "url": "/images/42-additional-photos-09--862d936c-0f34-4e50-af87-b519e2781d19.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        },
+        {
+          "index": 42,
+          "url": "/images/43-additional-photos-10--79addceb-8c2d-419b-80ff-e29af426a94c.jpeg",
+          "category": "Additional photos",
+          "caption": "Additional photo"
+        }
+      ]
+    }
+  ],
+  "heroPhotos": [
+    {
+      "index": 0,
+      "url": "/images/01-living-room-1-01--a9831aeb-f441-44f5-a38f-4cf54e3f0fcf.jpeg",
+      "category": "Living room 1",
+      "caption": "Living room"
+    },
+    {
+      "index": 1,
+      "url": "/images/02-living-room-1-02--a45feaa2-b607-4092-83ac-5fd4b2894959.jpeg",
+      "category": "Living room 1",
+      "caption": "Living room"
+    },
+    {
+      "index": 2,
+      "url": "/images/03-living-room-1-03--f1da1c3d-0d10-481e-9b63-c71f9073f30b.jpeg",
+      "category": "Living room 1",
+      "caption": "Living room"
+    },
+    {
+      "index": 3,
+      "url": "/images/04-living-room-2-01--090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    },
+    {
+      "index": 4,
+      "url": "/images/05-living-room-2-02--9be71047-fc52-438a-9270-75cb470f6752.jpeg",
+      "category": "Living room 2",
+      "caption": "Living room"
+    }
+  ]
+}
