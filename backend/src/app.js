@@ -52,35 +52,16 @@ app.use(express.json({ limit: '1mb' }));
 app.use(morgan('dev'));
 
 /* --------------------------------------------------
-   Backend public files
+   Static Files / Images
+   Files are stored in:
+
+   backend/public/
+   backend/public/images/
 -------------------------------------------------- */
 
 app.use(
   express.static(
     path.join(__dirname, '..', 'public'),
-    {
-      maxAge: '1d'
-    }
-  )
-);
-
-/* --------------------------------------------------
-   Airbnb Images
-   Images are stored in:
-   frontend/public/images/
--------------------------------------------------- */
-
-app.use(
-  '/images',
-  express.static(
-    path.join(
-      __dirname,
-      '..',
-      '..',
-      'frontend',
-      'public',
-      'images'
-    ),
     {
       maxAge: '1d'
     }
@@ -112,7 +93,6 @@ app.use('/api/v1', routes);
 -------------------------------------------------- */
 
 app.use(notFound);
-
 app.use(errorHandler);
 
 module.exports = app;

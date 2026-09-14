@@ -1,9 +1,23 @@
 import client from './client';
 
+const API_ORIGIN = import.meta.env.VITE_API_ORIGIN || '';
+
+function resolveImageUrl(url) {
+  if (!url) return url;
+  if (url.startsWith('http://') || url.startsWith('https://')) return url;
+
+  return `${API_ORIGIN}${url.startsWith('/') ? url : `/${url}`}`;
+}
+
 function withGroups(listing) {
   const groups = [];
 
-  listing.photos.forEach((photo, index) => {
+  const photos = listing.photos.map((photo) => ({
+    ...photo,
+    url: resolveImageUrl(photo.url)
+  }));
+
+  photos.forEach((photo, index) => {
     let group = groups.find((g) => g.category === photo.category);
 
     if (!group) {
@@ -24,10 +38,11 @@ function withGroups(listing) {
 
   return {
     ...listing,
+    photos,
     photoGroups: groups,
     heroPhotos: listing.heroPhotoIndexes.map((i) => ({
       index: i,
-      ...listing.photos[i]
+      ...photos[i]
     }))
   };
 }
